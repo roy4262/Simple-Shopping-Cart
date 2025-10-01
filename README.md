@@ -1,4 +1,4 @@
-# Mini E-Commerce Application
+# Simple Shopping Cart Application
 
 A simple full-stack e-commerce application built with React (frontend) and Node.js/Express (backend). Users can browse products, add items to their cart, and simulate checkout.
 
