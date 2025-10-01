@@ -12,7 +12,7 @@ function App() {
   const [isCartOpen, setIsCartOpen] = useState(false);
 
   useEffect(() => {
-    fetch(`${import.meta.env.VITE_API_BASE_URL}/products`)
+    fetch(`${import.meta.env.VITE_API_BASE_URL || "http://localhost:4000"}/products`)
       .then((res) => res.json())
       .then((data) => setProducts(data));
   }, []);
@@ -48,7 +48,7 @@ function App() {
   const checkout = async () => {
     const items = cart.map(({ id, quantity }) => ({ id, quantity }));
     const response = await fetch(
-      `${import.meta.env.VITE_API_BASE_URL}/checkout`,
+      `${import.meta.env.VITE_API_BASE_URL || "http://localhost:4000"}/checkout`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
