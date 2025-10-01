@@ -66,7 +66,7 @@ const products = [
   },
   {
     id: 9,
-    name: "Mapping Robot",
+    name: "Mopping Robot",
     price: 1200,
     imageUrl:
       "https://rukminim2.flixcart.com/image/612/612/xif0q/vacuum-cleaner/2/9/d/-original-imahg2bsu8zzjk3k.jpeg?q=70",
