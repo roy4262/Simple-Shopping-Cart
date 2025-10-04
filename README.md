@@ -5,7 +5,7 @@
 > Watch the quick walkthrough here:
 >
 > [https://www.loom.com/share/dfb432dc05b546dca586a7a5074f783e?sid=79fae57e-3f11-4fe1-844e-dc662b60dd0c](https://www.loom.com/share/dfb432dc05b546dca586a7a5074f783e?sid=79fae57e-3f11-4fe1-844e-dc662b60dd0c)
-><img width="0" height="0" alt="Screenshot 2025-10-04 183131" src="https://github.com/user-attachments/assets/03ff1048-8685-44d5-894d-2978c535d6f4" />
+><img width="1970" height="2100" alt="Screenshot 2025-10-04 183131" src="https://github.com/user-attachments/assets/03ff1048-8685-44d5-894d-2978c535d6f4" />
 
 > *(Click the link above to view the demo/walkthrough.)*
 
