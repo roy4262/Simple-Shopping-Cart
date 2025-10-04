@@ -9,8 +9,12 @@
 >
 > *(Click the link above to view the demo/walkthrough.)*
 
-🌍 **Live Deployment**: [Simple Shopping Cart on Netlify](https://simple-shopping-cart-project-1.netlify.app/)
-⚠️ *Note: Please refresh the page after ~20 seconds if the backend is sleeping (due to free hosting wake-up time).*
+
+## 🚀 Live Deployment
+
+👉 [https://simple-shopping-cart-project-1.netlify.app/](https://simple-shopping-cart-project-1.netlify.app/)  
+
+*(If backend seems down, please refresh after ~20 seconds as the server may be waking up.)*
 
 ---
 
