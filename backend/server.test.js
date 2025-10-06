@@ -2,7 +2,7 @@ import request from "supertest";
 import { app } from "./server.js";
 
 describe("GET /products", () => {
-  it("should return a list of products", async () => {
+  it("return array of products", async () => {
     const response = await request(app).get("/products");
     expect(response.status).toBe(200);
     expect(response.body).toBeInstanceOf(Array);
