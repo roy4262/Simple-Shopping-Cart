@@ -40,6 +40,16 @@ A simple full-stack e-commerce application built with React (frontend) and Node.
 * Node.js (v14 or higher)
 * npm or yarn
 
+---
+
+### 🧭 Clone the Repository
+
+1. Open your terminal and run:
+
+   ```bash
+   git clone https://github.com/roy4262/Simple-Shopping-Cart.git
+
+   
 ### Backend Setup
 
 1. Navigate to the backend directory:
