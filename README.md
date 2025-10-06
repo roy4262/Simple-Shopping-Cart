@@ -42,7 +42,7 @@ A simple full-stack e-commerce application built with React (frontend) and Node.
 
 ---
 
-### 🧭 Clone the Repository
+### 👉 Clone the Repository
 
 1. Open your terminal and run:
 
@@ -50,7 +50,7 @@ A simple full-stack e-commerce application built with React (frontend) and Node.
    git clone https://github.com/roy4262/Simple-Shopping-Cart.git
 
    
-### Backend Setup
+###  👉 Backend Setup
 
 1. Navigate to the backend directory:
 
@@ -72,7 +72,7 @@ A simple full-stack e-commerce application built with React (frontend) and Node.
 
    The server will run on `http://localhost:4000` (or port specified in `.env`)
 
-### Frontend Setup
+###  👉 Frontend Setup
 
 1. Navigate to the frontend directory:
 
@@ -94,7 +94,7 @@ A simple full-stack e-commerce application built with React (frontend) and Node.
 
    The app will be available at `http://localhost:5173` (or port specified in `.env`)
 
-## Running Tests
+##  👉 Running Tests
 
 ### Backend Tests
 
