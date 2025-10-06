@@ -1,5 +1,7 @@
 # Simple Shopping Cart Application
 
+A simple full-stack e-commerce application built with React (frontend) and Node.js/Express (backend). Users can browse products, add items to their cart, and simulate checkout.
+
 > 🎥 **Loom Walkthrough**
 > Watch the quick demo here:
 > 👉 [View Loom Video](https://www.loom.com/share/dfb432dc05b546dca586a7a5074f783e?sid=79fae57e-3f11-4fe1-844e-dc662b60dd0c)
