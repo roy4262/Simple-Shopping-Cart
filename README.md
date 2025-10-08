@@ -71,8 +71,12 @@ A simple full-stack e-commerce application built with React (frontend) and Node.
    ```
    npm run dev
    ```
-
+  
    The server will run on `http://localhost:4000` (or port specified in `.env`)
+   ---
+   
+<img width="1889" height="1080" alt="Screenshot 2025-10-08 134823" src="https://github.com/user-attachments/assets/a27afa1b-de5d-4eee-8ec3-4473bd6e9898" />
+---
 
 ###  👉 Frontend Setup
 
@@ -95,6 +99,18 @@ A simple full-stack e-commerce application built with React (frontend) and Node.
    ```
 
    The app will be available at `http://localhost:5173` (or port specified in `.env`)
+---
+
+
+
+<img width="1882" height="1086" alt="Screenshot 2025-10-08 140932" src="https://github.com/user-attachments/assets/f665c95a-c202-4c0c-93ff-d4503eed623d" />
+
+---
+
+
+<img width="1881" height="1029" alt="Screenshot 2025-10-08 134839" src="https://github.com/user-attachments/assets/e011c6e2-3e51-419b-8718-5c4631bc90fa" />
+
+---
 
 ##  👉 Running Tests
 
