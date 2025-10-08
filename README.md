@@ -112,6 +112,12 @@ A simple full-stack e-commerce application built with React (frontend) and Node.
 
 ---
 
+<img width="925" height="973" alt="Screenshot 2025-10-08 141245" src="https://github.com/user-attachments/assets/0c8bc70c-8004-4989-b796-b7a8dc22e00b" />
+
+
+
+---
+
 ##  👉 Running Tests
 
 ### Backend Tests
