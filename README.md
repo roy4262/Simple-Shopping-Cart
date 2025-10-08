@@ -111,6 +111,8 @@ A simple full-stack e-commerce application built with React (frontend) and Node.
    ```
    npm test
    ```
+   ---
+<img width="1531" height="566" alt="Screenshot 2025-10-08 134708" src="https://github.com/user-attachments/assets/5d69ec9f-2ca6-40bb-92fb-ee2402ce842c" />
 
 Currently, there is one test that verifies the `/products` endpoint returns a list of products.
 
