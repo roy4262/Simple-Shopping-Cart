@@ -118,6 +118,14 @@ A simple full-stack e-commerce application built with React (frontend) and Node.
 
 
 ---
+## The backend will get the products data from frotend(checkout)
+
+
+<img width="1653" height="624" alt="Screenshot 2025-10-08 141917" src="https://github.com/user-attachments/assets/1469a0ee-d5e7-42b1-907f-cb4ca97b9d36" />
+
+
+---
+
 
 ##  👉 Running Tests
 
